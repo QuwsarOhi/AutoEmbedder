@@ -26,4 +26,4 @@ An accuracy benchmark on CIFAR-10 dataset:
 
 If you use this work, please cite this article:
 
-(https://doi.org/10.1016/j.knosys.2020.106190)[https://doi.org/10.1016/j.knosys.2020.106190]
+[https://doi.org/10.1016/j.knosys.2020.106190](https://doi.org/10.1016/j.knosys.2020.106190)
