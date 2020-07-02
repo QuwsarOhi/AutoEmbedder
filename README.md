@@ -1,7 +1,8 @@
 # AutoEmbedder
 A semi-supervised DNN embedding system for clustering
+-----------
 
-This is the implementation of the AutoEmbedder.
+This is the implementation of the AutoEmbedder. A jupyter notebook version and a python version is attached in the repo.
 
 ## Abstract
 -----------
